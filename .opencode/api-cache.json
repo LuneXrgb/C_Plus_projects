@@ -1,0 +1,31 @@
+{
+  "sessions": {
+    "ses_13e3afea3ffeO7VvQxe1rchjgZ": {
+      "id": "ses_13e3afea3ffeO7VvQxe1rchjgZ",
+      "slug": "silent-wolf",
+      "projectID": "global",
+      "directory": "C:\\C_Plus_projects",
+      "path": "C_Plus_projects",
+      "cost": 0,
+      "tokens": {
+        "input": 0,
+        "output": 0,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "title": "New session - 2026-06-13T16:16:14.172Z",
+      "version": "1.17.4",
+      "time": {
+        "created": 1781367374172,
+        "updated": 1781367374172
+      }
+    }
+  },
+  "messages": {
+    "ses_13e3afea3ffeO7VvQxe1rchjgZ": []
+  },
+  "sessionList": null
+}
