@@ -29,7 +29,6 @@ void sequenceorder(){
     for(int i = 1; i <= n; i++)
         cout << val[i] << ' ';
 }
-
 void sequence_get(){
     cin >> n;
     for(int i = 1; i <= n; i++){
@@ -39,7 +38,6 @@ void sequence_get(){
     }
     root = 1;
 }
-
 int pre_get(){
     int x;
     cin >> x;
@@ -50,7 +48,6 @@ int pre_get(){
     r[u] = pre_get();
     return u;
 }
-
 int main(){
     id = 0;
     root = pre_get();
