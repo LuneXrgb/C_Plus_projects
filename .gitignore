@@ -1,0 +1,16 @@
+# Compiled executables
+*.exe
+*.o
+*.out
+
+# Build directories
+**/build/
+
+# IDE / Editor
+.vscode/
+.claude/
+.opencode/
+
+# OS files
+Thumbs.db
+.DS_Store
