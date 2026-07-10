@@ -18,7 +18,6 @@
 | 文件 | 说明 |
 |------|------|
 | [quick_sort_template.cpp](quick_sort_template.cpp) | 快速排序模板 |
-| [quick_sort_simple.cpp](quick_sort_simple.cpp) | 快速排序（简单版） |
 
 ## 高精度
 
