@@ -27,15 +27,15 @@
 |------|------|
 | [high_precision_arithmetic.cpp](high_precision_arithmetic.cpp) | 高精度四则运算（加、减、乘、除） |
 
-## 搜索与枚举
+## 搜索与枚举（DFS）
 
 | 文件 | 说明 |
 |------|------|
-| [arrangement_template.cpp](arrangement_template.cpp) | 全排列（DFS 枚举） |
+| [arrangement_template.cpp](arrangement_template.cpp) | 全排列（DFS 回溯） |
+| [combination_template.cpp](combination_template.cpp) | 组合数（DFS 枚举） |
 
-## 组合数学与数论
+## 数论
 
 | 文件 | 说明 |
 |------|------|
-| [combination_template.cpp](combination_template.cpp) | 组合数 |
 | [quick_pow_template.cpp](quick_pow_template.cpp) | 快速幂 |
