@@ -12,7 +12,6 @@
 | 文件 | 说明 |
 |------|------|
 | [inversion_count_merge_sort.cpp](inversion_count_merge_sort.cpp) | 归并排序求逆序数 |
-| [inversion_count_merge_sort_v2.cpp](inversion_count_merge_sort_v2.cpp) | 归并排序求逆序数（改进版） |
 
 ## 排序
 
