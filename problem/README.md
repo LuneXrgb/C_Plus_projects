@@ -25,7 +25,7 @@
 
 | 文件 | 说明 |
 |------|------|
-| [../temlpate/arrangement.cpp](../temlpate/arrangement.cpp) | 全排列 |
-| [../temlpate/combination.cpp](../temlpate/combination.cpp) | 组合数 |
-| [../temlpate/quick_pow.cpp](../temlpate/quick_pow.cpp) | 快速幂 |
-| [../temlpate/quick_sort.cpp](../temlpate/quick_sort.cpp) | 快速排序（简单版） |
+| [arrangement_template.cpp](arrangement_template.cpp) | 全排列 |
+| [combination_template.cpp](combination_template.cpp) | 组合数 |
+| [quick_pow_template.cpp](quick_pow_template.cpp) | 快速幂 |
+| [quick_sort_simple.cpp](quick_sort_simple.cpp) | 快速排序（简单版） |
