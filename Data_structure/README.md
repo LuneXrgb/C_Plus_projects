@@ -21,4 +21,4 @@
 |------|------|
 | [sequence_list.cpp](sequence_list.cpp) | 顺序表（数组实现） |
 | [stack.cpp](stack.cpp) | 栈 |
-| [quene.cpp](quene.cpp) | 队列 |
+| [queue.cpp](queue.cpp) | 队列 |
