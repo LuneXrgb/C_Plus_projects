@@ -31,6 +31,7 @@
 | 文件 | 说明 |
 |------|------|
 | [difference_array_template.cpp](difference_array_template.cpp) | 差分模板（区间修改） |
+| [difference_array_2d_template.cpp](difference_array_2d_template.cpp) | 二维差分模板（子矩阵修改） |
 
 ## 高精度
 
