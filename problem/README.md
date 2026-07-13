@@ -24,6 +24,7 @@
 | 文件 | 说明 |
 |------|------|
 | [prefix_sum_template.cpp](prefix_sum_template.cpp) | 前缀和模板（区间求和） |
+| [prefix_sum_2d_template.cpp](prefix_sum_2d_template.cpp) | 二维前缀和模板（子矩阵求和） |
 
 ## 高精度
 
