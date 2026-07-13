@@ -19,6 +19,12 @@
 |------|------|
 | [quick_sort_template.cpp](quick_sort_template.cpp) | 快速排序模板 |
 
+## 前缀和
+
+| 文件 | 说明 |
+|------|------|
+| [prefix_sum_template.cpp](prefix_sum_template.cpp) | 前缀和模板（区间求和） |
+
 ## 高精度
 
 | 文件 | 说明 |
